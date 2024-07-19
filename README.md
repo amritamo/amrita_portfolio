@@ -55,4 +55,5 @@ Fine-tuned KerasCV Stable Diffusion model on fashion dataset using low-rank adap
 
 Optimized ResNet-28 architecture for full facial keypoint detection of ibug face dataset. Implemented U-Net architecture for pixelwise classification, generating pixel-aligned heatmaps to predict facial keypoints.
 
-#### Tools: Python, Java, JavaScript, C++, Pytorch, Tensorflow, Google Colab, Jupyter Notebook, Expo, Flask
+## Skills & Tools
+Python, Java, JavaScript, C++, Pytorch, Tensorflow, Google Colab, Jupyter Notebook, Expo, Flask
