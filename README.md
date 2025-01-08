@@ -6,13 +6,14 @@ I'm a computer science student aspiring to build innovative machine learning sol
 - B.S., Computer Science | UC Berkeley (_May 2024_)
 
 ## Relevant Coursework
-- ### UC San Diego
+### UC San Diego
 - Probabilistic Reasoning and Decision-Making (CSE 250A)
 - NLP (CSE 256)
 - Recommender Systems (CSE 258)
 - Convex Optimization (CSE 203B)
 - Fair and Transparent ML (CSE 291)
-- ### UC Berkeley
+
+### UC Berkeley
 - Machine Learning (CS 189)
 - Deep Neural Networks (CS 182)
 - NLP (INFO 159)
