@@ -1,3 +1,9 @@
+---
+layout: default
+title: Projects
+permalink: /projects/
+---
+
 # Welcome!
 I'm a computer science student aspiring to build innovative machine learning solutions for health and wellness.
 
