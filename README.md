@@ -6,20 +6,27 @@ I'm a computer science student aspiring to build innovative machine learning sol
 - B.S., Computer Science | UC Berkeley (_May 2024_)
 
 ## Relevant Coursework
-- Machine Learning (Python)
-- Deep Neural Networks (Python)
-- Principles and Techniques of Data Science (Python)
-- Computer Vision and Computational Photography (Python)
-- Computer Graphics (C++)
-- User Interface Design and Development (HTML/CSS/JavaScript)
-- Data Structures and Algorithms (Java)
-- Efficient Algorithms and Intractable Problems (Python)
-- Structure and Interpretation of Computer Programs (Python)
-- Machine Structures (C & RISC-V)
-- Designing Information Devices and Systems I&II (Python)
-- Linear Algebra and Differential Equations
-- Discrete Math and Probability Theory
+UC San Diego
+- Probabilistic Reasoning & Decision-Making (CSE 250A)
+- Natural Language Processing (CSE 256)
+- Recommender Systems (CSE 258)
+UC Berkeley
+- Machine Learning (CS 189)
+- Deep Neural Networks (CS 182)
+- Natural Language Processing (INFO 159)
+- Principles and Techniques of Data Science (Data 100)
+- Computer Vision and Computational Photography (CS 194-26)
+- Computer Graphics (CS 184)
+- User Interface Design and Development (CS 160)
+- Data Structures and Algorithms (CS 61B)
+- Efficient Algorithms and Intractable Problems (CS 170)
+- Structure and Interpretation of Computer Programs (CS 61A)
+- Machine Structures (CS 61C)
+- Designing Information Devices and Systems I&II (EECS 16A/16B)
+- Linear Algebra and Differential Equations (Math 54)
+- Discrete Math and Probability Theory (CS 70)
 - Technology Entrepreneurship
+- Music and Computation (Music 158A)
 
 ## Work Experience
 **Software Engineering Intern @ Senvo, Berlin, DE (_June 2023 - August 2023_)**
