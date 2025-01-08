@@ -7,20 +7,22 @@ I'm a computer science student aspiring to build innovative machine learning sol
 
 ## Relevant Coursework
 ### UC San Diego
-- Probabilistic Reasoning & Decision-Making (CSE 250A)
-- Natural Language Processing (CSE 256)
+- Probabilistic Reasoning and Decision-Making (CSE 250A)
+- NLP (CSE 256)
 - Recommender Systems (CSE 258)
+- Convex Optimization (CSE 203B)
+- Fair and Transparent ML (CSE 291)
 ### UC Berkeley
 - Machine Learning (CS 189)
 - Deep Neural Networks (CS 182)
-- Natural Language Processing (INFO 159)
+- NLP (INFO 159)
 - Principles and Techniques of Data Science (Data 100)
 - Computer Vision and Computational Photography (CS 194-26)
 - Computer Graphics (CS 184)
-- User Interface Design and Development (CS 160)
+- UI Design and Development (CS 160)
 - Data Structures and Algorithms (CS 61B)
-- Efficient Algorithms and Intractable Problems (CS 170)
-- Structure and Interpretation of Computer Programs (CS 61A)
+- Algorithms (CS 170)
+- Computer Programs (CS 61A)
 - Machine Structures (CS 61C)
 - Designing Information Devices and Systems I&II (EECS 16A/16B)
 - Linear Algebra and Differential Equations (Math 54)
