@@ -25,7 +25,7 @@ I'm a computer science student aspiring to build innovative machine learning sol
 - Data Structures and Algorithms (CS 61B)
 - Algorithms (CS 170)
 - Computer Programs (CS 61A)
-- Cumputer Architecture (CS 61C)
+- Computer Architecture (CS 61C)
 - Designing Information Devices and Systems I&II (EECS 16A/16B)
 - Linear Algebra and Differential Equations (Math 54)
 - Discrete Math and Probability Theory (CS 70)
