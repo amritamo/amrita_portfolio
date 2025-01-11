@@ -2,8 +2,8 @@
 I'm a computer science student aspiring to build innovative machine learning solutions for health and wellness.
 
 ## Education
-- M.S., Computer Science	| UC San Diego (_September 2024 -_)	 			        		
-- B.S., Computer Science | UC Berkeley (_May 2024_)
+- M.S., Computer Science	| UC San Diego (_September 2024 - Expected June 2026_)	 			        		
+- B.S., Computer Science | UC Berkeley (_August 2020 - May 2024_)
 
 ## Relevant Coursework
 ### UC San Diego
@@ -12,6 +12,7 @@ I'm a computer science student aspiring to build innovative machine learning sol
 - Recommender Systems (CSE 258)
 - Convex Optimization (CSE 203B)
 - Fair and Transparent ML (CSE 291)
+- Software Engineering (CSE 210)
 
 ### UC Berkeley
 - Machine Learning (CS 189)
