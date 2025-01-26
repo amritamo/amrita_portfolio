@@ -31,39 +31,55 @@
 - Technology Entrepreneurship
 - Music and Computation (Music 158A)
 
+## Languages
+Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
+
 ## Work Experience
+
+**Computer Vision Researcher @ Aravind Eye Hospitals, Remote (_November 2024 - current_)**
+- Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets, optimized for T4 GPU resources.
+- Collaborated with doctors and business stakeholders across 14 eye hospitals to align models with clinical requirements and ensure practical applicability.
+
 **Software Engineering Intern @ Senvo, Berlin, DE (_June 2023 - August 2023_)**
-- Integrated Google Cloud Document AI API with Python into backend infrastructure to automate invoice data parsing
-- Applied unsupervised machine learning approaches to identify potential data entry errors, with a focus on optimizing the Isolation Forest algorithm for Senvo’s data
+- Automated invoice data parsing by integrating and unit testing the Google Cloud Document AI API, reducing
+processing time by 50%.
+- Deployed anomaly detection algorithms (Isolation Forest, Local Outlier Factor, k-Nearest Neighbors) to identify and correct discrepancies in client data entry with 97% accuracy, significantly improving overall data consistency.
+
+**Co-founder @ Reazi LLC., Berkeley, CA (_July 2022 - February 2023_)**
+- Collaborated with a 6-member cross-functional team at the Berkeley SkyDeck startup incubator to develop a
+rental platform connecting college students and landlords.
+- Designed and deployed a RESTful API server using FastAPI and Docker, leveraging SQLAlchemy to define user
+and listing schemas with PostgreSQL.
+- Delivered a product viability pitch deck to VCs, securing early-stage interest.
    
 **Undergraduate Researcher @ SKY Lab, Berkeley, CA (_June 2022 - December 2022_)**
+- Reduced floater artifacts in Neural Radiance Fields (NeRFs) through temporal averaging of multi-frame data, measured by a 10\% improvement in Peak Signal-to-Noise Ratio (PSNR), resulting in more accurate 3D scene reconstruction.
 - Rendered 8K synthetic data in Blender for the purpose of training neural radiance fields (NeRFs) for 360-degree videos
-- Minimized floater artifacts during test time by utilizing 3D diffusion models for more effective scene reconstruction
-  
+
+
 **Engineering Intern @ Syntiant Corp., Irvine, CA (_June 2021 - August 2021_)**
-- Deployed Mobilenet-V3 TensorFlow Lite Model for image classification to benchmark Syntiant NDP120 Neural Decision Processor performance against Raspberry Pi 3 ARM Cortex-A53 & Raspberry Pi 4 ARM Cortex-A72 processors
-- Conducted data collection, processing, and analysis of the processor's power consumption data
+- Deployed Mobilenet-V3 TensorFlow Lite Model for image classification to benchmark Syntiant NDP120 Neural Decision Processor performance against Raspberry Pi 3 ARM Cortex-A53 & Raspberry Pi 4 ARM Cortex-A72 processors, showing 30x more inferences/million cycles and 100x energy efficiency improvement compared to baselines.
+- Developed a framework to collect, analyze, and visualize power consumption data, showcasing a 1-year runtime compared to just 3 days for the baseline processor
 
 ## Projects
 
-### GetHealth
+### Mental Health Sentiment Classifier (November 2024 - December 2024)
+[Github Repo](https://github.com/amritamo/mental-health-bert)
+
+Achieved 26% increase in accuracy in detecting mental well-being indicators from Random Forest, Linear SVM, and Logistic Regression baseline models
+by fine-tuning BERT to classify social media text posts as Normal, Anxious, Bipolar, Depressed, etc.
+
+### Intelligent Food Recommender (June 2024 - August 2024)
 [Github Repo](https://github.com/amritamo/FoodRec)
 
 Developed a mobile application using Expo frontend and Flask backend to help users manage their diet and make informed food choices. The app employs computer vision to identify foods in a refrigerator, retrieves their nutritional information, and recommends meals based on user-defined macronutrient goals.
 
-### Graded Sentiment Analysis of Yelp Reviews
-[Github Repo](https://github.com/amritamo/INFO-159/tree/cd9af9482516461c041770994077057c0168a7ad/Annotation%20Project)
-
-Developed an ordinal regression model to classify Yelp review data based on passion levels, achieving a 15.8% improvement over the baseline accuracy, through effective feature engineering. The project involved detailed analysis of punctuation, text length, and capitalization to enhance model performance and address challenges in distinguishing passion levels.
-
-### Fashion Synthesis Tool
+### Fashion Synthesis Tool (November 2023 - December 2023)
 [Github Repo](https://github.com/amritamo/fashion_stable_diffusion_finetuned.git)
 
-Fine-tuned KerasCV Stable Diffusion model on fashion dataset using low-rank adaptation, enhancing text-to-image results for this context. Conducted a performance analysis of several variables including LoRA rank, batch size, and learning rate. Evaluated the model outputs by implementing Fréchet Inception Distance (FID) to assess generated image quality compared to baselines.
+Created a text-to-image GenAI fashion tool by fine-tuning KerasCV Stable Diffusion model on the Fashion Product Dataset using low-rank adaptation. Conducted an ablation study of several variables including LoRA rank, batch size, and learning rate. Achieved a 37\% reduction in Fréchet Inception Distance (FID), generating more realistic images compared to the baseline model.
 
-### Facial Keypoint Detection
+### NewsByte (March 2023 - May 2023)
+[Demo App](https://newsbyte-mobile.netlify.app/)
 
-Optimized ResNet-28 architecture for full facial keypoint detection of ibug face dataset. Implemented U-Net architecture for pixelwise classification, generating pixel-aligned heatmaps to predict facial keypoints.
-
-## Skills & Tools
-Python, Java, JavaScript, C++, Pytorch, Tensorflow, Google Colab, Jupyter Notebook, Expo, Flask
+Developed a React-based mobile app with a Node.js backend to deliver concise news updates through text-to-speech and GPT-3.5-based summarization. Integrated NewsAPI and HTML scraping to fetch news from diverse sources, providing users with audio and text-based options; hosted the app on Netlify for seamless deployment and access.
