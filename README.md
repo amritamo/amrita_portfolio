@@ -69,10 +69,6 @@ and listing schemas with PostgreSQL.
 Achieved 26% increase in accuracy in detecting mental well-being indicators from Random Forest, Linear SVM, and Logistic Regression baseline models
 by fine-tuning BERT to classify social media text posts as Normal, Anxious, Bipolar, Depressed, etc.
 
-### Intelligent Food Recommender (June 2024 - August 2024)
-[Github Repo](https://github.com/amritamo/FoodRec)
-
-Developed a mobile application using Expo frontend and Flask backend to help users manage their diet and make informed food choices. The app employs computer vision to identify foods in a refrigerator, retrieves their nutritional information, and recommends meals based on user-defined macronutrient goals.
 
 ### Fashion Synthesis Tool (November 2023 - December 2023)
 [Github Repo](https://github.com/amritamo/fashion_stable_diffusion_finetuned.git)
