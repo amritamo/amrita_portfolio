@@ -1,5 +1,4 @@
 # Welcome!
-I'm a computer science student aspiring to build innovative machine learning solutions for health and wellness.
 
 ## Education
 - M.S., Computer Science	| UC San Diego (_September 2024 - Expected June 2026_)	 			        		
