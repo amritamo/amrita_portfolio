@@ -37,8 +37,8 @@ Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
 ## Work Experience
 
 **Computer Vision Researcher @ Aravind Eye Hospitals, Remote (_November 2024 - current_)**
-- Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets, optimized for T4 GPU resources.
-- Collaborated with doctors and business stakeholders across 14 eye hospitals to align models with clinical requirements and ensure practical applicability.
+- Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets
+- Collaborated with doctors across 14 eye hospitals to align models with clinical requirements and ensure practical applicability.
 
 **Software Engineering Intern @ Senvo, Berlin, DE (_June 2023 - August 2023_)**
 - Automated invoice data parsing by integrating and unit testing the Google Cloud Document AI API, reducing
@@ -53,13 +53,13 @@ and listing schemas with PostgreSQL.
 - Delivered a product viability pitch deck to VCs, securing early-stage interest.
    
 **Undergraduate Researcher @ SKY Lab, Berkeley, CA (_June 2022 - December 2022_)**
-- Reduced floater artifacts in Neural Radiance Fields (NeRFs) through temporal averaging of multi-frame data, measured by a 10\% improvement in Peak Signal-to-Noise Ratio (PSNR), resulting in more accurate 3D scene reconstruction.
-- Rendered 8K synthetic data in Blender for the purpose of training neural radiance fields (NeRFs) for 360-degree videos
+- Reduced floater artifacts in Neural Radiance Fields (NeRFs) through temporal averaging of multi-frame data, measured by a 10% improvement in Peak Signal-to-Noise Ratio (PSNR), resulting in more accurate 3D scene reconstruction.
+- Rendered 8K synthetic data in Blender for the purpose of training neural radiance fields (NeRFs) for 360-degree videos.
 
 
 **Engineering Intern @ Syntiant Corp., Irvine, CA (_June 2021 - August 2021_)**
 - Deployed Mobilenet-V3 TensorFlow Lite Model for image classification to benchmark Syntiant NDP120 Neural Decision Processor performance against Raspberry Pi 3 ARM Cortex-A53 & Raspberry Pi 4 ARM Cortex-A72 processors, showing 30x more inferences/million cycles and 100x energy efficiency improvement compared to baselines.
-- Developed a framework to collect, analyze, and visualize power consumption data, showcasing a 1-year runtime compared to just 3 days for the baseline processor
+- Developed a framework to collect, analyze, and visualize power consumption data, showcasing a 1-year runtime compared to just 3 days for the baseline processor.
 
 ## Projects
 
@@ -67,13 +67,13 @@ and listing schemas with PostgreSQL.
 [Github Repo](https://github.com/amritamo/mental-health-bert)
 
 Achieved 26% increase in accuracy in detecting mental well-being indicators from Random Forest, Linear SVM, and Logistic Regression baseline models
-by fine-tuning BERT to classify social media text posts as Normal, Anxious, Bipolar, Depressed, etc.
+by fine-tuning BERT to classify user sentiment in social media text posts.
 
 
 ### Fashion Synthesis Tool (November 2023 - December 2023)
 [Github Repo](https://github.com/amritamo/fashion_stable_diffusion_finetuned.git)
 
-Created a text-to-image GenAI fashion tool by fine-tuning KerasCV Stable Diffusion model on the Fashion Product Dataset using low-rank adaptation. Conducted an ablation study of several variables including LoRA rank, batch size, and learning rate. Achieved a 37\% reduction in Fréchet Inception Distance (FID), generating more realistic images compared to the baseline model.
+Created a text-to-image GenAI fashion tool by fine-tuning KerasCV Stable Diffusion model on the Fashion Product Dataset using low-rank adaptation. Conducted an ablation study of several variables including LoRA rank, batch size, and learning rate. Achieved a 37% reduction in Fréchet Inception Distance (FID), generating more realistic images compared to the baseline model.
 
 ### NewsByte (March 2023 - May 2023)
 [Demo App](https://newsbyte-mobile.netlify.app/)
