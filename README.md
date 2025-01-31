@@ -1,35 +1,35 @@
 # Welcome!
 
 ## Education
-- M.S., Computer Science	| UC San Diego (_September 2024 - Expected June 2026_)	 			        		
+- M.S., Computer Science	| UC San Diego (_Expected June 2026_)	 			        		
 - B.S., Computer Science | UC Berkeley (_August 2020 - May 2024_)
 
 ## Relevant Coursework
 ### UC San Diego
 - Probabilistic Reasoning and Decision-Making (CSE 250A)
-- NLP (CSE 256)
-- Recommender Systems (CSE 258)
 - Convex Optimization (CSE 203B)
+- Natural Language Processing (CSE 256)
+- Recommender Systems (CSE 258)
 - Fair and Transparent ML (CSE 291)
 - Software Engineering (CSE 210)
 
 ### UC Berkeley
 - Machine Learning (CS 189)
 - Deep Neural Networks (CS 182)
-- NLP (INFO 159)
-- Principles and Techniques of Data Science (Data 100)
+- Natural Language Processing (INFO 159)
 - Computer Vision and Computational Photography (CS 194-26)
+- Principles and Techniques of Data Science (Data 100)
 - Computer Graphics (CS 184)
 - UI Design and Development (CS 160)
-- Data Structures and Algorithms (CS 61B)
-- Algorithms (CS 170)
 - Computer Programs (CS 61A)
+- Data Structures and Algorithms (CS 61B)
 - Computer Architecture (CS 61C)
 - Designing Information Devices and Systems I&II (EECS 16A/16B)
 - Linear Algebra and Differential Equations (Math 54)
 - Discrete Math and Probability Theory (CS 70)
-- Technology Entrepreneurship
 - Music and Computation (Music 158A)
+- Technology Entrepreneurship
+
 
 ## Languages
 Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
@@ -37,7 +37,8 @@ Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
 ## Work Experience
 
 **Computer Vision Researcher @ Aravind Eye Hospitals, Remote (_November 2024 - current_)**
-- Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets
+- Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets.
+- Pre-processed and cleaned data to ensure high-quality input and optimize model performance.
 - Collaborated with doctors across 14 eye hospitals to align models with clinical requirements and ensure practical applicability.
 
 **Software Engineering Intern @ Senvo, Berlin, DE (_June 2023 - August 2023_)**
@@ -66,8 +67,7 @@ and listing schemas with PostgreSQL.
 ### Mental Health Sentiment Classifier (November 2024 - December 2024)
 [Github Repo](https://github.com/amritamo/mental-health-bert)
 
-Achieved 26% increase in accuracy in detecting mental well-being indicators from Random Forest, Linear SVM, and Logistic Regression baseline models
-by fine-tuning BERT to classify user sentiment in social media text posts.
+Fine-tuned BERT for classification of mental well-being indicators in social media text, achieving 83% accuracy—outperforming Random Forest, Linear SVM, and Logistic Regression baseline models trained with TF-IDF vectorization. 
 
 
 ### Fashion Synthesis Tool (November 2023 - December 2023)
