@@ -71,6 +71,7 @@ Fine-tuned BERT for classification of mental well-being indicators in social med
 
 ### GetHealth (June 2024 - August 2024)
 [Github Repo](https://github.com/amritamo/FoodRec)
+
 The Smart Fridge Food Recommender is a mobile application that uses YOLOv5, an object detection model to identify foods inside a refrigerator, fetches their nutritional information, and recommends meals based on the user’s macronutrient goals. This project aims to provide a convenient way for users to manage their diet and make informed food choices.
 
 
