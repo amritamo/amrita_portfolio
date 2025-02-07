@@ -69,10 +69,10 @@ and listing schemas with PostgreSQL.
 
 Fine-tuned BERT for classification of mental well-being indicators in social media text, achieving 83% accuracy—outperforming Random Forest, Linear SVM, and Logistic Regression baseline models trained with TF-IDF vectorization. 
 
-### GetHealth (June 2024 - August 2024)
+### Smart Food Recommender (June 2024 - August 2024)
 [Github Repo](https://github.com/amritamo/FoodRec)
 
-The Smart Fridge Food Recommender is a mobile application that uses YOLOv5, an object detection model to identify foods inside a refrigerator, fetches their nutritional information, and recommends meals based on the user’s macronutrient goals. This project aims to provide a convenient way for users to manage their diet and make informed food choices.
+Developed a full-stack application with an Expo frontend and Flask backend to deliver personalized food recommendations based on nutrient goals. Integrated YOLOv5 for object detection of refrigerator items, linking it to a nutritional information database to provide users with detailed caloric insights.
 
 
 ### Fashion Synthesis Tool (November 2023 - December 2023)
