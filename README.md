@@ -49,7 +49,7 @@ processing time by 50%.
 **Co-founder @ Reazi LLC., Berkeley, CA (_July 2022 - February 2023_)**
 - Collaborated with a 6-member cross-functional team at the Berkeley SkyDeck startup incubator to develop a
 rental platform connecting college students and landlords.
-- Designed and deployed a RESTful API server using FastAPI and Docker, leveraging SQLAlchemy to define user
+- Designed and deployed a REST API server using FastAPI and Docker, leveraging SQLAlchemy to define user
 and listing schemas with PostgreSQL.
 - Delivered a product viability pitch deck to VCs, securing early-stage interest.
    
