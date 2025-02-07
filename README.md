@@ -70,7 +70,7 @@ and listing schemas with PostgreSQL.
 Fine-tuned BERT for classification of mental well-being indicators in social media text, achieving 83% accuracy—outperforming Random Forest, Linear SVM, and Logistic Regression baseline models trained with TF-IDF vectorization. 
 
 ### Smart Food Recommender (June 2024 - August 2024)
-[Github Repo](https://github.com/amritamo/FoodRec)
+[Github Repo](https://github.com/amritamo/Get-Health)
 
 Developed a full-stack application with an Expo frontend and Flask backend to deliver personalized food recommendations based on nutrient goals. Integrated YOLOv5 for object detection of refrigerator items, linking it to a nutritional information database to provide users with detailed caloric insights.
 
