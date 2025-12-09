@@ -41,6 +41,7 @@ Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
 **Graduate Student Researcher @ UCSD WukLab, La Jolla, CA (_October 2025 - current_)**
 - Investigated methods to accelerate tool calls in deep-research agent workflows, including parallelization and speculative execution strategies.
 - Built on LangChain Open Deep Research and ZTE Co-Sight to implement a speculative tool-calling pipeline using Gemini Flash(draft) and Pro(target) models modeled after speculative decoding.
+  
 **Cloud AI Engineering Intern @ Qualcomm, Santa Clara, CA (_June 2025 - September 2025_)**
 - Evaluated instruction-tuned large language models (8B–70B) from Hugging Face on Qualcomm Cloud AI100 accelerator cards to advance AI-powered learning on near-edge devices.
 - Developed a JavaScript browser extension enabling offline study experiences with in-text quizzes, Q&A chat, and automated flashcards for digital textbooks.
