@@ -1,7 +1,7 @@
 # Welcome!
 
 ## Education
-- M.S., Computer Science	| UC San Diego (_Expected June 2026_)	 			        		
+- M.S., Computer Science, Artificial Intelligence Emphasis	| UC San Diego (_Sept 2024 - Dec 2025_)	 			        		
 - B.S., Computer Science | UC Berkeley (_August 2020 - May 2024_)
 
 ## Relevant Coursework
@@ -10,8 +10,11 @@
 - Convex Optimization (CSE 203B)
 - Natural Language Processing (CSE 256)
 - Recommender Systems (CSE 258)
-- Fair and Transparent ML (CSE 291)
+- Fair and Transparent ML (CSE 291 - Prof. Julian McAuley)
 - Software Engineering (CSE 210)
+- Embedded Systems Project Design (CSE 237D)
+- Deep Learning (CSE 251B)
+- Systems for LLMs and AI Agents (CSE 291 - Prof. Yiying Zhang)
 
 ### UC Berkeley
 - Machine Learning (CS 189)
@@ -34,9 +37,21 @@
 ## Languages
 Python, Java, Javascript/HTML/CSS, C, C++, SQL, RISC-V, Max/MSP
 
-## Work Experience
-
-**Computer Vision Researcher @ Aravind Eye Hospitals, Remote (_November 2024 - current_)**
+## Relevant Experience
+**Graduate Student Researcher @ UCSD WukLab, La Jolla, CA (_October 2025 - current_)**
+- Investigated methods to accelerate tool calls in deep-research agent workflows, including parallelization and speculative execution strategies.
+- Built on LangChain Open Deep Research and ZTE Co-Sight to implement a speculative tool-calling pipeline using Gemini Flash(draft) and Pro(target) models modeled after speculative decoding.
+**Cloud AI Engineering Intern @ Qualcomm, Santa Clara, CA (_June 2025 - September 2025_)**
+- Evaluated instruction-tuned large language models (8B–70B) from Hugging Face on Qualcomm Cloud AI100 accelerator cards to advance AI-powered learning on near-edge devices.
+- Developed a JavaScript browser extension enabling offline study experiences with in-text quizzes, Q&A chat, and automated flashcards for digital textbooks.
+- Implemented vLLM and speculative decoding to boost inference throughput and reduce latency for near-edge learning workloads.
+  
+**GenAI Engineering Intern @ Code17Tek, Remote (_March 2025 - June 2025_)**
+- Designed and deployed an AI-powered grading pipeline for video-based assignments, collaborating with teachers to meet classroom needs.
+- Built RESTful APIs integrating Azure OpenAI models (Whisper, GPT-4o) with Canvas LMS for automated transcription and feedback.
+- Managed deployment with Docker and AWS, and maintained databases using SQLModel and DataGrip.
+  
+**Computer Vision Researcher @ Aravind Eye Hospitals, Remote (_November 2024 - February 2025_)**
 - Achieved 95% validation accuracy for glaucoma detection by enhancing and fine-tuning VGG19 and EfficientNet-B0 architectures on internal retinal fundus datasets.
 - Pre-processed and cleaned data to ensure high-quality input and optimize model performance.
 - Collaborated with doctors across 14 eye hospitals to align models with clinical requirements and ensure practical applicability.
